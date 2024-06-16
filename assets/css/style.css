@@ -1218,7 +1218,7 @@ div#preloader {
 }
 
 .pri_table_list li.check i {
-  color: #3EC1D5;
+  color: #E54798;
   line-height: 0;
   font-size: 24px;
   margin-right: 5px;
@@ -1270,7 +1270,7 @@ div#preloader {
 }
 
 .saleon {
-  background: #3EC1D5 none repeat scroll 0 0;
+  background: #E54798 none repeat scroll 0 0;
   color: #fff;
   font-size: 13px;
   font-weight: 700;
@@ -1299,8 +1299,8 @@ div#preloader {
 }
 
 .active>button {
-  background: #3EC1D5 none repeat scroll 0 0;
-  border: 1px solid #3EC1D5;
+  background: #E54798 none repeat scroll 0 0;
+  border: 1px solid #E54798;
   color: #fff;
   transition: 0.4s;
 }
